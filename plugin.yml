@@ -1,0 +1,7 @@
+name: Snow
+main: GMCPE\Snow\Snow
+version: 1.0
+author: Driesboy
+api:
+- 1.13.0
+- 2.0.0
